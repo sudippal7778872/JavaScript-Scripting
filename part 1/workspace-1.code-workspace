@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Visual Studio code\\Intermediate JavaScript"
+		},
+		{
+			"path": "..\\..\\Visual Studio code\\Introdution to JavaScript"
+		},
+		{
+			"path": "..\\..\\Visual Studio code\\JAVA Script syntax"
+		},
+		{
+			"path": "..\\..\\Visual Studio code\\CSS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript Scripting"
+	}
+}
